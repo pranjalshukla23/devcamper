@@ -1,0 +1,11 @@
+
+
+{
+  "name": "CSP Test",
+  "version": "1.0",
+  "manifest_version": 2,
+  "options_page": "./index.html",
+  "content_security_policy": "default-src 'unsafe-inline'"
+}
+
+

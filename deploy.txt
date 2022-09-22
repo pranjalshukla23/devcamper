@@ -1,0 +1,7 @@
+1. To generate documentation from docgen using postman collection ->
+
+
+./docgen build -i dc.postman_collection -o index.html
+
+
+
